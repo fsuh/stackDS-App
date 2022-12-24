@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stackDS-App/static/css/main.c1dec7ad.css",
+    "main.js": "/stackDS-App/static/js/main.b165c7e7.js",
+    "index.html": "/stackDS-App/index.html",
+    "main.c1dec7ad.css.map": "/stackDS-App/static/css/main.c1dec7ad.css.map",
+    "main.b165c7e7.js.map": "/stackDS-App/static/js/main.b165c7e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1dec7ad.css",
+    "static/js/main.b165c7e7.js"
+  ]
+}
